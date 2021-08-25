@@ -1,6 +1,9 @@
-# react-native-streamamg
+# Reactt Native Calendar Component
 
-calendar library
+React native calendar library provides month view with event counts with in the day view can pick the date by month and choosing the year as well, in default calendar we only have month option but we added optins for year and event counts
+## Platform Support
+Supports react native > 0.64
+
 ## Screen shot
 ![header image](https://github.com/jaiobs/OBS-Calendar-Component-Reactnative/raw/main/screenshot/calendar_screen.png)
 ## Installation
@@ -38,3 +41,15 @@ return (
 
 }
 ```
+## Features
+ - Change Month
+ - Change Year
+ - Pick date
+ - show event count
+ - customise date view
+
+## Report a Bug
+
+We appreciate your feedback -- comments, questions, and bug reports. Please
+[submit a GitHub issue](https://github.com/jaiobs/OBS-Calendar-Component-Reactnative/issues),
+and we'll get back to you.
