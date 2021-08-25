@@ -1,7 +1,8 @@
 # react-native-streamamg
 
 calendar library
-
+## Screen shot
+![header image](https://github.com/jaiobs/OBS-Calendar-Component-Reactnative/raw/main/screenshot/calendar_screen.png)
 ## Installation
 
 ```sh
