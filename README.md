@@ -1,4 +1,4 @@
-# Reactt Native Calendar Component
+# React Native Calendar Component
 
 React native calendar library provides month view with event counts with in the day view can pick the date by month and choosing the year as well, in default calendar we only have month option but we added optins for year and event counts
 ## Platform Support
